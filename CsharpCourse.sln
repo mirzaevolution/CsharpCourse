@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CharpBasic", "CharpBasic", "{05CFD0AE-1897-445B-90E7-26056FDBBA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicCsharp", "BasicCsharp\BasicCsharp.csproj", "{F18797E2-1CDC-49AA-93B9-6EE77E2EA31E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F18797E2-1CDC-49AA-93B9-6EE77E2EA31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F18797E2-1CDC-49AA-93B9-6EE77E2EA31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F18797E2-1CDC-49AA-93B9-6EE77E2EA31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F18797E2-1CDC-49AA-93B9-6EE77E2EA31E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F18797E2-1CDC-49AA-93B9-6EE77E2EA31E} = {05CFD0AE-1897-445B-90E7-26056FDBBA81}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8934902A-4406-4212-A1E3-9B173884FA8F}
+	EndGlobalSection
+EndGlobal
